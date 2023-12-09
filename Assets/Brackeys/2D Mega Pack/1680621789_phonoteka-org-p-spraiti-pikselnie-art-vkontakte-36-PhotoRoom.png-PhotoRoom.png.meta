@@ -1,0 +1,1816 @@
+fileFormatVersion: 2
+guid: 314a1078192f2324fa09d6a728be475f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 140105224734564590
+    second: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_0
+  - first:
+      213: 4964033966874203692
+    second: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_1
+  - first:
+      213: -3922089799782655395
+    second: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_2
+  - first:
+      213: -7895100090872734259
+    second: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_3
+  - first:
+      213: 2372300352820826216
+    second: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_4
+  - first:
+      213: -701577862124161234
+    second: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_5
+  - first:
+      213: 6392915372575508518
+    second: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_6
+  - first:
+      213: 7088867523869116984
+    second: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_7
+  - first:
+      213: -8361576283995280772
+    second: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_8
+  - first:
+      213: 3661199598434167300
+    second: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_9
+  - first:
+      213: 2935109137930089652
+    second: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_10
+  - first:
+      213: -8912423948116991578
+    second: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_11
+  - first:
+      213: 1204575066774225590
+    second: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_12
+  - first:
+      213: -2729129347373234957
+    second: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_13
+  - first:
+      213: -1380925665850569735
+    second: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_14
+  - first:
+      213: 5812224406665785130
+    second: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_15
+  - first:
+      213: -756602191865896406
+    second: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_16
+  - first:
+      213: 4914507406271398545
+    second: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_17
+  - first:
+      213: -4714144603910681979
+    second: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_18
+  - first:
+      213: -8174220201338255886
+    second: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_19
+  - first:
+      213: 3009176834205357711
+    second: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_20
+  - first:
+      213: -299819169828406999
+    second: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_21
+  - first:
+      213: -4792333324376177544
+    second: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_22
+  - first:
+      213: -4108650868088303038
+    second: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_23
+  - first:
+      213: 1371133737127164980
+    second: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_24
+  - first:
+      213: 8108556329285441892
+    second: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_25
+  - first:
+      213: -6192713183353411897
+    second: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_26
+  - first:
+      213: -5483172592381222613
+    second: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_27
+  - first:
+      213: 2124644634133253996
+    second: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_28
+  - first:
+      213: 4310405352797798692
+    second: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_29
+  - first:
+      213: 5928385249659699044
+    second: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_30
+  - first:
+      213: -1750268994473398501
+    second: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_31
+  - first:
+      213: 2291721420625077044
+    second: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_32
+  - first:
+      213: 3362660158999235702
+    second: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_33
+  - first:
+      213: 6025911161218630656
+    second: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_34
+  - first:
+      213: -2426563410988485365
+    second: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_35
+  - first:
+      213: 7017242945675032321
+    second: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_36
+  - first:
+      213: 2873211823020938914
+    second: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_37
+  - first:
+      213: -7651671536363356143
+    second: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_38
+  - first:
+      213: 3862371122835203787
+    second: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_39
+  - first:
+      213: 8384334406186901049
+    second: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_40
+  - first:
+      213: -2222893799400451329
+    second: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_41
+  - first:
+      213: -2854248258192459880
+    second: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_42
+  - first:
+      213: -6121227075432099583
+    second: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_43
+  - first:
+      213: 7791273188433361693
+    second: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_44
+  - first:
+      213: 1163378553388326035
+    second: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_45
+  - first:
+      213: 1382335436383549396
+    second: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_46
+  - first:
+      213: -7661608436453338482
+    second: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_47
+  - first:
+      213: -5845239652966458600
+    second: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_48
+  - first:
+      213: 1087345567781084309
+    second: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_49
+  - first:
+      213: 3807018244462761522
+    second: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_50
+  - first:
+      213: -3357886127683683639
+    second: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_51
+  - first:
+      213: -186007562973671914
+    second: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_52
+  - first:
+      213: -2262770059135046586
+    second: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_53
+  - first:
+      213: 2230307443294175744
+    second: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_54
+  - first:
+      213: 1909579816736312568
+    second: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_55
+  - first:
+      213: 2463938736559572166
+    second: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_56
+  - first:
+      213: -938801919707669239
+    second: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_57
+  - first:
+      213: -3785374995270960183
+    second: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_58
+  - first:
+      213: -6947010318169486724
+    second: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_59
+  - first:
+      213: -5996308790819797461
+    second: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_60
+  - first:
+      213: -4307373843902285069
+    second: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_61
+  - first:
+      213: -6571413143964101095
+    second: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_62
+  - first:
+      213: -5579570587637876198
+    second: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_63
+  - first:
+      213: 3719771621667504931
+    second: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_64
+  - first:
+      213: -8786391310473408339
+    second: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_65
+  - first:
+      213: 9118682876685911123
+    second: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_66
+  - first:
+      213: -3667357405198751503
+    second: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_67
+  - first:
+      213: -2537399227639388852
+    second: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_68
+  - first:
+      213: -4785414740314460516
+    second: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_69
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 776
+        width: 60
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee0ea77a5f0c1f100800000000000000
+      internalID: 140105224734564590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_1
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 776
+        width: 61
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c269280a79ac3e440800000000000000
+      internalID: 4964033966874203692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 776
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a95c27b10f199c0800000000000000
+      internalID: -3922089799782655395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_3
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 396
+        width: 303
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd50612c48fe6290800000000000000
+      internalID: -7895100090872734259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_4
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 623
+        width: 163
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8605b661a9a1ce020800000000000000
+      internalID: 2372300352820826216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_5
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 396
+        width: 297
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e27bfc9c6ae7346f0800000000000000
+      internalID: -701577862124161234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_6
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 563
+        width: 152
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6284f7509a238b850800000000000000
+      internalID: 6392915372575508518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_7
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 701
+        width: 60
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83a850c5477b06260800000000000000
+      internalID: 7088867523869116984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_8
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 701
+        width: 61
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7a6126dba6b5fb80800000000000000
+      internalID: -8361576283995280772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_9
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 701
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40aa87c03a13fc230800000000000000
+      internalID: 3661199598434167300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_10
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 639
+        width: 60
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b47357c53a9bb820800000000000000
+      internalID: 2935109137930089652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_11
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 639
+        width: 61
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a16dc4a3a5b05480800000000000000
+      internalID: -8912423948116991578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_12
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 639
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b2ce5024a287b010800000000000000
+      internalID: 1204575066774225590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_13
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 639
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f489bf615f202ad0800000000000000
+      internalID: -2729129347373234957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_14
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 554
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fbc1c16c67f5dce0800000000000000
+      internalID: -1380925665850569735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_15
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 554
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2f6b2aad4b29a050800000000000000
+      internalID: 5812224406665785130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_16
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 554
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a222d8da0520085f0800000000000000
+      internalID: -756602191865896406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_17
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 396
+        width: 160
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19245d4a276d33440800000000000000
+      internalID: 4914507406271398545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_18
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 396
+        width: 139
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58a4418957ef39eb0800000000000000
+      internalID: -4714144603910681979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_19
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 468
+        width: 60
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f5496729065f8e80800000000000000
+      internalID: -8174220201338255886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_20
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 469
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f86152d236eb2c920800000000000000
+      internalID: 3009176834205357711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_21
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 469
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9297685bd04d6dbf0800000000000000
+      internalID: -299819169828406999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_22
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 413
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8748a4b7b363e7db0800000000000000
+      internalID: -4792333324376177544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_23
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 413
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2421f75ddc32bf6c0800000000000000
+      internalID: -4108650868088303038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_24
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 424
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43cb40d8ede370310800000000000000
+      internalID: 1371133737127164980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_25
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 424
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 469dd404501678070800000000000000
+      internalID: 8108556329285441892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_26
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 424
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c6675e8b201f0aa0800000000000000
+      internalID: -6192713183353411897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_27
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 361
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b21a5fc049bd7e3b0800000000000000
+      internalID: -5483172592381222613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_28
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 362
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6fc373b9014c7d10800000000000000
+      internalID: 2124644634133253996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_29
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 367
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4218473b4d2a1db30800000000000000
+      internalID: 4310405352797798692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_30
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 367
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46fb1a189fad54250800000000000000
+      internalID: 5928385249659699044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_31
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 367
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1f68037f9bc5b7e0800000000000000
+      internalID: -1750268994473398501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_32
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 303
+        width: 213
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 433e2807d74ddcf10800000000000000
+      internalID: 2291721420625077044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_33
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 303
+        width: 134
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67c028539919aae20800000000000000
+      internalID: 3362660158999235702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_34
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 313
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0048f74464650a350800000000000000
+      internalID: 6025911161218630656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_35
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 257
+        width: 40
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0532172f6d135ed0800000000000000
+      internalID: -2426563410988485365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_36
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 310
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1077397b741426160800000000000000
+      internalID: 7017242945675032321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_37
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 310
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a69d9b1ee2bfd720800000000000000
+      internalID: 2873211823020938914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_38
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 310
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1104819274dcfc590800000000000000
+      internalID: -7651671536363356143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_39
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 310
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc6a15f8216e99530800000000000000
+      internalID: 3862371122835203787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_40
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 225
+        width: 288
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93e1bd668b32b5470800000000000000
+      internalID: 8384334406186901049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_41
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 303
+        width: 111
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff25159edd1b621e0800000000000000
+      internalID: -2222893799400451329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_42
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 303
+        width: 95
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89739a5e45ca368d0800000000000000
+      internalID: -2854248258192459880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_43
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 303
+        width: 77
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 101dd5318680d0ba0800000000000000
+      internalID: -6121227075432099583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_44
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 303
+        width: 89
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b78985fa9202c60800000000000000
+      internalID: 7791273188433361693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_45
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 255
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39cd40661a6252010800000000000000
+      internalID: 1163378553388326035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_46
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 223
+        width: 119
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d7731661ca0f2310800000000000000
+      internalID: 1382335436383549396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_47
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 226
+        width: 175
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e82101158bf7ca590800000000000000
+      internalID: -7661608436453338482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_48
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 226
+        width: 180
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b18e9418981eea0800000000000000
+      internalID: -5845239652966458600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_49
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 226
+        width: 151
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59cdfab6807071f00800000000000000
+      internalID: 1087345567781084309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_50
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 226
+        width: 149
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23652a24cee35d430800000000000000
+      internalID: 3807018244462761522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_51
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 26
+        width: 208
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cab3339b546661d0800000000000000
+      internalID: -3357886127683683639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_52
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 140
+        width: 52
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61e0b636b1b2b6df0800000000000000
+      internalID: -186007562973671914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_53
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 140
+        width: 52
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64cadd0be960990e0800000000000000
+      internalID: -2262770059135046586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_54
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 140
+        width: 57
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00285719dc4a3fe10800000000000000
+      internalID: 2230307443294175744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_55
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 140
+        width: 62
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fcc2d6d9b0308a10800000000000000
+      internalID: 1909579816736312568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_56
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 111
+        width: 58
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c445f4f93ba13220800000000000000
+      internalID: 2463938736559572166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_57
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 111
+        width: 57
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90d9e55c0a4b8f2f0800000000000000
+      internalID: -938801919707669239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_58
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 111
+        width: 57
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cb7a316f75a77bc0800000000000000
+      internalID: -3785374995270960183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_59
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 111
+        width: 58
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7ac8862ce2479f90800000000000000
+      internalID: -6947010318169486724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_60
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 111
+        width: 57
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2642aface4d8cca0800000000000000
+      internalID: -5996308790819797461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_61
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 83
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fa35677f422934c0800000000000000
+      internalID: -4307373843902285069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_62
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 83
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 916dfa9ff86adc4a0800000000000000
+      internalID: -6571413143964101095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_63
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 85
+        width: 71
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1a70a4cc126192b0800000000000000
+      internalID: -5579570587637876198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_64
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 94
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 323021be4984f9330800000000000000
+      internalID: 3719771621667504931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_65
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 93
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da057a9c7a7701680800000000000000
+      internalID: -8786391310473408339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_66
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 95
+        width: 37
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3540d4473c11c8e70800000000000000
+      internalID: 9118682876685911123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_67
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 54
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f8eab6deddea1dc0800000000000000
+      internalID: -3667357405198751503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_68
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 56
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c45243f98d859ccd0800000000000000
+      internalID: -2537399227639388852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1680621789_phonoteka-org-p-spraiti-pikselnie-art-vkontakte-36-PhotoRoom.png-PhotoRoom_69
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 56
+        width: 45
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9e63acd5aac69db0800000000000000
+      internalID: -4785414740314460516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
